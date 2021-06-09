@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @berangurleme
+- 👀 I’m interested in coding, movies, anime and dinosaurs
+- 🌱 I’m currently learning GIT,node.js and PL/SQL
+- 💞️ I’m looking to collaborate on ...
+- 📫 Contact me @ linkedin.com/berang
