@@ -25,3 +25,4 @@ I have a more detailed résumé if you're into that sort of thing📝.
 I used to be what average turkish aspired to be: [hopless-tax-payer](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_vergiler)💸.
 
 I am now just a 🎯hyper-creative🎨 person from any reasonable perspective.
+[![Berans's GitHub stats](https://github-readme-stats.vercel.app/api?username=berangurleme)](https://github.com/anuraghazra/github-readme-stats)
