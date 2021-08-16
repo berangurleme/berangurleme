@@ -10,7 +10,9 @@ I am also watch lots of animes🗾 and have a [list](https://myanimelist.net/pro
 
 I obsess on building my solo indie video game🕹️  when I'm not working.
 
-I have a beautiful wife👩‍⚕️ and two apple snails.🐌🐌
+I have a amazing wife👩‍⚕️ 
+
+I have two apple snails🐌🐌 and a golden fish🐠.
 
 I write code and (used to) write [satiric comments](https://twitter.com/turumaji) about the things I see.
 
