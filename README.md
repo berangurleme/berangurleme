@@ -8,11 +8,9 @@ I watch a lot movies and I used to run a weekly movie🎥 night.
 
 I am also watch lots of animes🗾 and have a [list](https://myanimelist.net/profile/TuruMaji) since 2007.
 
-I obsess on building my solo indie video game🕹️  when I'm not working.
+I have a amazing wife👩‍⚕️.
 
-I have a amazing wife👩‍⚕️ 
-
-I have two apple snails🐌🐌 and a golden fish🐠.
+I have two apple snails🐌🐌, 12 ramshorn snails🐏 and a golden fish🐠.
 
 I write code and (used to) write [satiric comments](https://twitter.com/turumaji) about the things I see.
 
@@ -20,9 +18,9 @@ I was the research assistant👨‍🏫 at [kocaeli university](https://www.time
 
 I am not anymore, but they're still [suck](https://onedio.com/haber/sadece-kocaeli-universitesi-nde-okuyanlarin-bildigi-15-durum-786254) at researching.
 
-I am now working at [Minerva Yazilim](https://www.minerva.com.tr/ana-sayfa/pg/HOME.html) as System Development Specialist📁.
+I was work at [Minerva Yazilim](https://www.minerva.com.tr/ana-sayfa/pg/HOME.html) as Business Analyst + System Development Specialist📁.
 
-I have a more detailed résumé if you're into that sort of thing📝.
+I am working at [DK Bilgi Teknolojileri](https://github.com/DK-Bilgi-Teknolojileri)) as Business Analyst + Product Owner🕵🏼.
 
 I used to be what average turkish aspired to be: [hopless-tax-payer](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_vergiler)💸.
 
