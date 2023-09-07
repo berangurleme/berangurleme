@@ -10,7 +10,7 @@ I am also watch lots of animes🗾 and have a [list](https://myanimelist.net/pro
 
 I have a amazing wife👩‍⚕️.
 
-I have two apple snails🐌🐌, 12 ramshorn snails🐏 and a golden fish🐠.
+I have 4 ramshorn snails🐌🐏 and a golden fish🐠.
 
 I write code and (used to) write [satiric comments](https://twitter.com/turumaji) about the things I see.
 
