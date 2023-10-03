@@ -12,19 +12,18 @@ I have a amazing wife👩‍⚕️.
 
 I have 4 ramshorn snails🐌🐏 and a golden fish🐠.
 
-I write code and (used to) write [satiric comments](https://twitter.com/turumaji) about the things I see.
+I write [satiric comments](https://twitter.com/turumaji) about the things I see.
 
 I was the research assistant👨‍🏫 at [kocaeli university](https://www.timeshighereducation.com/world-university-rankings/kocaeli-university).
 
 I am not anymore, but they're still [suck](https://onedio.com/haber/sadece-kocaeli-universitesi-nde-okuyanlarin-bildigi-15-durum-786254) at researching.
 
-I was work at [Minerva Yazilim](https://www.minerva.com.tr/ana-sayfa/pg/HOME.html) as Business Analyst + System Development Specialist📁.
+I was work at Minerva Yazilim as Business Analyst / System Development Specialist📁.
 
-I am working at [DK Bilgi Teknolojileri](https://github.com/DK-Bilgi-Teknolojileri)) as Business Analyst + Product Owner🕵🏼.
+I am working at [DK Bilgi Teknolojileri](https://github.com/DK-Bilgi-Teknolojileri)) as Business Analyst / Product Owner / Service Designer🕵🏼.
 
 I used to be what average turkish aspired to be: [hopless-tax-payer](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_vergiler)💸.
 
 I am now just a 🎯hyper-creative🎨 person from any reasonable perspective.
-[![Berans's GitHub stats](https://github-readme-stats.vercel.app/api?username=berangurleme&show_icons=true&theme=radical)](https://github.com/berangurleme)
 
-https://github.com/berangurleme/github-profile-views-counter
+![](https://komarev.com/ghpvc/?username=berangurleme)
