@@ -26,3 +26,5 @@ I used to be what average turkish aspired to be: [hopless-tax-payer](https://tr.
 
 I am now just a 🎯hyper-creative🎨 person from any reasonable perspective.
 [![Berans's GitHub stats](https://github-readme-stats.vercel.app/api?username=berangurleme&show_icons=true&theme=radical)](https://github.com/berangurleme)
+
+https://github.com/berangurleme/github-profile-views-counter
