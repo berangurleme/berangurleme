@@ -26,4 +26,4 @@ I used to be what average turkish aspired to be: [hopless-tax-payer](https://tr.
 
 I am now just a 🎯hyper-creative🎨 person from any reasonable perspective.
 
-![](https://komarev.com/ghpvc/?username=berangurleme)
+![](https://komarev.com/ghpvc/?username=berangurleme&color=orange)
